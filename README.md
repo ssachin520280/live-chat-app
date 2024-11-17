@@ -1,4 +1,4 @@
 # Live Chat App
 
-### [Live Site](https://hg.hlk)
+### [Live Site](https://live-chat-app-teal.vercel.app)
 
